@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vivek Salokhe!
 
-AI & Data Science enthusiast with a solid foundation in *Machine Learning*, *Deep Learning*, and *Data Analytics*. I’m passionate about building intelligent, data-driven solutions and leveraging AI to solve real-world problems. Currently, I’m pursuing a **Bachelor of Technology in Artificial Intelligence** and have hands-on experience developing ML models and analytical dashboards.
+AI & Data Science enthusiast with a strong foundation in *Machine Learning*, *Deep Learning*, and *Data Analytics*. I am passionate about developing intelligent, data-driven solutions and utilizing AI to address real-world challenges. Currently pursuing a **Bachelor of Technology in Artificial Intelligence**, I have hands-on experience in building machine learning models, performing data analysis, and creating interactive dashboards. Alongside my academic journey, I am currently working as a **Data Analyst and Data Scientist**, applying analytical and AI-driven techniques to extract valuable insights, support data-driven decision-making, and deliver impactful business solutions.
 
 ---
 
